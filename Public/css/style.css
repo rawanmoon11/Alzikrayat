@@ -10,7 +10,7 @@
 }
 
 #log,
-#reg {
+#reg ,#up {
     max-width: 900px;
     margin: auto;
 }
