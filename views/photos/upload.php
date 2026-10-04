@@ -5,7 +5,7 @@
 
 
 
-   <form  class="row g-3 justify-content-center mt-5 " method="post" action="/alzikrayat/Public/store" enctype="multipart/form-data">
+   <form   id="up" class="row g-3 justify-content-center mt-5 " method="post" action="/alzikrayat/Public/store" enctype="multipart/form-data">
    
    <div class="col-md-5">
     <label class="form-label"> choose file</label>
