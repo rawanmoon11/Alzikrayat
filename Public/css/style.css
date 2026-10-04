@@ -1,0 +1,138 @@
+.card-img-top {
+    object-fit: cover;
+    width: 100%;
+}
+
+.card-img {
+    object-fit: cover;
+    width: 100%;
+
+}
+
+#log,
+#reg {
+    max-width: 900px;
+    margin: auto;
+}
+
+/*mobile screen */
+@media(max-width:575.98px) {
+    .card-img {
+        height: 300px;
+    }
+
+    .card-img-top {
+        height: 450px;
+    }
+
+    .foot {
+
+        font-size: 13px;
+    }
+
+    #footerST {
+        margin-top: 130px;
+    }
+
+
+
+}
+
+/*Tablets(portrait) screen*/
+@media (min-width:576px) and (max-width:767.98px) {
+    .card-img {
+        height: 400px;
+    }
+
+    .card-img-top {
+        height: 500px;
+    }
+
+    .foot {
+
+        font-size: 14px;
+    }
+
+    #footerST {
+        margin-top: 120px;
+    }
+
+}
+
+/*Tablets(Landscape) screen*/
+@media (min-width:768px) and (max-width:991.98px) {
+    .card-img {
+        height: 500px;
+    }
+
+    .card-img-top {
+        height: 680px;
+
+    }
+
+    .foot {
+
+        font-size: 15px;
+    }
+
+    #footerST {
+        margin-top: 115px;
+    }
+
+}
+
+/*laptop/decktop screen*/
+@media (min-width:992px) and (max-width:1499.98px) {
+    .card-img {
+        height: 350px;
+    }
+
+    .card-img-top {
+        height: 400px;
+
+    }
+
+    #details {
+
+        height: 950px;
+    }
+
+    #footerST {
+        margin-top: 110px;
+    }
+
+
+}
+
+@media (min-width:1500.98px) {
+    .card-img {
+        height: 650px;
+    }
+
+    .card-img-top {
+        height: 800px;
+
+    }
+
+    #footerST {
+        margin-top: 100px;
+    }
+}
+
+
+
+
+
+header {
+    height: 30px;
+    position: relative;
+    background-image: url("/alzikrayat/Public/Images/uploads/logo.png");
+    background-position: top left;
+    background-size: 30px;
+    background-repeat: no-repeat;
+    padding-right: 10px;
+    padding-bottom: 80px;
+    border-radius: 20px;
+    z-index: 1;
+    opacity: 0.78;
+}
