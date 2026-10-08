@@ -28,6 +28,8 @@
                      <li class="nav-item" > <a class="nav-link" href="/alzikrayat/Public/login"> Login</a></li>
                      <li class="nav-item"><a class="nav-link"  href="/alzikrayat/Public/register"> Register</a></li>
                     <li class="nav-item" ><a class="nav-link"  href="/alzikrayat/Public/photos/gallery"> Gallery</a></li>
+                     <li class="nav-item" ><a class="nav-link" style="color:black;">Please Login..</a></li>
+
 <?php endif;?>
 </ul>
 </nav>
