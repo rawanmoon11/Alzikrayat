@@ -16,7 +16,9 @@
             <div class="nav-item" > <a class="nav-link" href="/alzikrayat/Public/login"> <span class="apan">Login</span></a></div>
               <div class="nav-item"><a class="nav-link"  href="/alzikrayat/Public/register"><span class="apan"> Register</span></a></div>
                 <div class="nav-item" ><a class="nav-link"  href="/alzikrayat/Public/photos/gallery"><span class="apan"> Gallary</span></a></div>
-</ul>
+                 <div class="nav-item" ><a class="nav-link" ><span class="apan"> Please Login..</span></a></div>
+
+      </ul>
 </nav>
    <img  class="bg-im"src="/alzikrayat/Public/Images/uploads/pho.GIF">
   
